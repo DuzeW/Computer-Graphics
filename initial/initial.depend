@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1715630984 source:c:\msys64\home\wikto\initial\writepng.c
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<png.h>
+
